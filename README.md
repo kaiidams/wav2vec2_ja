@@ -1,5 +1,5 @@
 # wav2vec_ja
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaiidams/wav2vec2_ja/main)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaiidams/wav2vec2_ja/blob/main/wav2vec2_ja.ipynb)
 
 wav2vec 2.0 finetuned with Common Voice 12.0 Japanese

@@ -1,1 +1,0 @@
-FROM kaiida/pytorch-notebook
